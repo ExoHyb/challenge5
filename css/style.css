@@ -1,3 +1,63 @@
+body {
+	background-color: #000;
+}
+
+.navbar-default a:hover {
+	background-color: #24890D !important;
+	border-radius: 0;
+	color: #fff;
+}
+
 .img-1 {
 	width: 100%;
+	height: 200px;
+}
+.navbar {
+	background-color: #000;
+	border: 0;
+}
+.b-top {
+	border-top: 1px solid #333;
+}
+
+.b-bot {
+	border-bottom: 1px solid #333;
+}
+.no-pad-marg {
+	padding: 0;
+	margin: 0;
+}
+h5, h4{
+	color: #fff;
+}
+
+.marg-menu {
+	color: #fff;
+}
+.fa-style {
+	color: #fff;
+	font-size: 1.5em;
+	float: right;
+}
+button{
+	padding: 1em 1.5em;
+	background-color: #24890d;
+	border: 0;
+}
+i{
+	color: #fff;
+}
+.img-menu {
+	width: 80%;
+	margin: auto;
+}
+
+.bg-white{
+	margin: 3.2em 0;
+	background-color: #fff;
+}
+.marg-input{
+	margin: 4.3em 8%;
+	padding: 0.3em;
+
 }
